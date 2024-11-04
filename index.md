@@ -5,7 +5,7 @@ layout: homepage
 I'm a second year Computer Science Ph.D. student at University of Illinois at Chicago (UIC) under the supervision of Dr. Asudeh.
 
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
@@ -68,4 +68,4 @@ I'm a second year Computer Science Ph.D. student at University of Illinois at Ch
 
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263). -->
