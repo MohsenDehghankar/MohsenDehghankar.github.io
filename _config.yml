@@ -1,0 +1,16 @@
+title: Mohsen Dehghankar
+position: Ph.D. Student
+affiliation: CS at UIC
+email: mdehgh2 (at) uic.edu
+keywords: Mohsen Dehghankar, Mohsen, Dehghankar
+google_scholar: https://scholar.google.com/citations?user=YZQnitsAAAAJ&hl=en
+github_link: https://github.com/MohsenDehghankar
+linkedin: https://www.linkedin.com/in/mohsen-dehghankar-b92788158/
+cv_link: ./
+avatar: ./assets/img/profile.jpg
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Strata Academic is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://strata-academic.yyliu.net/
+remote_theme: yaoyao-liu/strata-academic
