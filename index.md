@@ -2,15 +2,18 @@
 layout: homepage
 ---
 
-I am a second-year PhD student in Computer Science at the University of Illinois at Chicago, advised by [Prof. Abol Asudeh](https://asudeh.github.io/). 
+I am a second-year PhD student in Computer Science at the University of Illinois at Chicago, 
+advised by [Prof. Abol Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering at Sharif University of Technology.
+
+
 My research is mainly focused on **Algorithm Design** and **Data Science**. 
 I design efficient algorithms to manage large-scale data in various stages of Machine Learning and Data Science pipeline. 
 This includes Data Reranking, Debiasing, and Mining meaningful insight from data. 
 <!-- I explore the integration of **large language models (LLMs)** and **Computation Geometry** within data science tasks, particularly in optimizing and analyzing complex datasets in high-dimensional spaces. -->
 I'm also exploring how these methods can be integrated to enhance **large language models (LLMs)**.
-Beyond this, I'm interested in **Computational Geometry** and its applications in data science, especially when it comes to optimizing and analyzing complex, high-dimensional datasets.
+Beyond this, I'm interested in **Computational Geometry** and its applications in data science, especially when it comes to optimizing and analyzing complex, d-dimensional datasets.
 
-In general, I'm fascinated by any problem defined on a large set of points or tuples in a _high-dimensional_ space!
+In general, I'm fascinated by any problem defined on a large set of points or tuples in a _d-dimensional_ space!
 
 
 <!-- ## Research Interests
