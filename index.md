@@ -3,14 +3,14 @@ layout: homepage
 ---
 
 I am a second-year PhD student in Computer Science at the University of Illinois at Chicago, 
-advised by [Prof. Abol Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering at Sharif University of Technology.
+advised by [Dr. Abol Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering at Sharif University of Technology.
 
 
 My research is mainly focused on **Algorithm Design** and **Data Science**. 
 I design efficient algorithms to manage large-scale data in various stages of Machine Learning and Data Science pipeline. 
 This includes Data Reranking, Debiasing, and Mining meaningful insight from data. 
 <!-- I explore the integration of **large language models (LLMs)** and **Computation Geometry** within data science tasks, particularly in optimizing and analyzing complex datasets in high-dimensional spaces. -->
-I'm also exploring how these methods can be integrated to enhance **large language models (LLMs)**.
+I'm also exploring how these methods can be integrated to enhance **Large Language Models (LLMs)**.
 Beyond this, I'm interested in **Computational Geometry** and its applications in data science, especially when it comes to optimizing and analyzing complex, d-dimensional datasets.
 
 In general, I'm fascinated by any problem defined on a large set of points or tuples in a _d-dimensional_ space!
@@ -27,34 +27,41 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
 - **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
 - **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
 - **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+-->
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Optimized Inference for 1.58-bit LLMs: A Time and Memory-Efficient Algorithm for Binary and Ternary Matrix Multiplication**.
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Mohsen Dehghankar**, Mahdi Erfanian, Abolfazl Asudeh.
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Preprint. **2025**. *To be submitted to ICML 2025*.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](TBD)] [[Code](https://github.com/UIC-InDeXLab/RSR)] 
+  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
+  <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Mining the Minoria: Unknown, Under-represented, and Under-performing Minority Groups**.
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Mohsen Dehghankar**, Abolfazl Asudeh.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  International Conference on Very Large Databases. **VLDB 2025**. *Under revision*.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+  [[PDF](https://arxiv.org/abs/2411.04761)] [[Code](https://github.com/UIC-InDeXLab/Mining_U3Ms)]
+  <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span>
+  <span style="background-color: #FFDAC1; color: black; padding: 2px 6px; border-radius: 4px;">Computational Geometry</span>
 
 
+- **Fair Set Cover**
+  <br>
+  **Mohsen Dehghankar**, Rahul Raychaudhury, Stavros Sintos, Abolfazl Asudeh.
+  <br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2024**. *Under revision*.
+  <br>
+  [[PDF](https://arxiv.org/abs/2405.11639)] [[Code](https://github.com/UIC-InDeXLab/fair_set_cover)] 
+  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
+
+<!--
 ## Selected Talks
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
