@@ -39,7 +39,7 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   <br>
   Preprint. **2025**. *To be submitted to ICML 2025*.
   <br>
-  [[PDF](TBD)] [[Code](https://github.com/UIC-InDeXLab/RSR)] 
+  [[PDF](https://arxiv.org/abs/2411.06360)] [[Code](https://github.com/UIC-InDeXLab/RSR)] 
   <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
   <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span>
 
