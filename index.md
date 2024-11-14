@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a second-year PhD student in Computer Science at the University of Illinois at Chicago, 
-advised by [Dr. Abol Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering at Sharif University of Technology.
+advised by [Dr. Abol Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering with a minor in Mathematics at Sharif University of Technology.
 
 
 My research is mainly focused on **Algorithm Design** and **Data Science**. 
