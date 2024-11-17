@@ -58,7 +58,7 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   <br>
   **Mohsen Dehghankar**, Rahul Raychaudhury, Stavros Sintos, Abolfazl Asudeh.
   <br>
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2024**. *Under revision*.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2025**. *Accepted*.
   <br>
   [[PDF](https://arxiv.org/abs/2405.11639)] [[Code](https://github.com/UIC-InDeXLab/fair_set_cover)] 
   <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
