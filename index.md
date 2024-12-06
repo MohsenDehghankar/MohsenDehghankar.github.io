@@ -63,6 +63,27 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   [[PDF](https://arxiv.org/abs/2405.11639)] [[Code](https://github.com/UIC-InDeXLab/fair_set_cover)] 
   <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
 
+- **Rank It, Then Ask It: Input Reranking for Maximizing the Performance of LLMs on Symmetric Tasks**
+  <br>
+  **Mohsen Dehghankar**, Abolfazl Asudeh.
+  <br>
+  Preprint. **2025**. 
+  <br>
+  [[PDF](https://arxiv.org/abs/2412.00546)] [[Code](https://github.com/UIC-InDeXLab/prompt-reranking)]
+  <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span>
+  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
+
+- **Needle: A Generative-AI Powered Monte Carlo Method for Answering Complex Natural Language Queries on Multi-modal Data**
+  <br>
+  Mahdi Erfanian, **Mohsen Dehghankar**, Abolfazl Asudeh.
+  <br>
+  Preprint. **2025**. 
+  <br>
+  [[PDF](https://arxiv.org/abs/2412.00639)] [[Code](https://github.com/UIC-InDeXLab/Needle)]
+  <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span>
+  <span style="background-color: #ADD8E6; color: black; padding: 2px 6px; border-radius: 4px;">Multi-modal Datasets</span>
+  
+
 <!--
 ## Selected Talks
 
