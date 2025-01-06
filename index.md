@@ -33,7 +33,7 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
 
 ## Publications
 
-- **Optimized Inference for 1.58-bit LLMs: A Time and Memory-Efficient Algorithm for Binary and Ternary Matrix Multiplication**.
+- **An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks**.
   <br>
   **Mohsen Dehghankar**, Mahdi Erfanian, Abolfazl Asudeh.
   <br>
