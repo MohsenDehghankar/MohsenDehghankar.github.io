@@ -47,7 +47,7 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   <br>
   **Mohsen Dehghankar**, Abolfazl Asudeh.
   <br>
-  International Conference on Very Large Databases. **VLDB 2025**. *Under revision*.
+  International Conference on Very Large Databases. **VLDB 2025**. *Accepted*.
   <br>
   [[PDF](https://arxiv.org/abs/2411.04761)] [[Code](https://github.com/UIC-InDeXLab/Mining_U3Ms)]
   <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span>
