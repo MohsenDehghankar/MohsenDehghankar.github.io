@@ -12,10 +12,10 @@ My research is mainly focused on **Algorithm Design** and **Data Science**.
 I design efficient algorithms to manage large-scale data in various stages of Machine Learning and Data Science pipeline. 
 This includes Data Reranking, Debiasing, and Mining meaningful insight from data. 
 <!-- I explore the integration of **large language models (LLMs)** and **Computation Geometry** within data science tasks, particularly in optimizing and analyzing complex datasets in high-dimensional spaces. -->
-I'm also exploring how these methods can be integrated to enhance **Large Language Models (LLMs)**.
-Beyond this, I'm interested in **Computational Geometry** and its applications in data science, especially when it comes to optimizing and analyzing complex, d-dimensional datasets.
+I'm also exploring algorithmic solutions to optimize **Large Language Models (LLMs)**.
+Beyond this, I'm interested in **Computational Geometry** and its applications in data science, especially when it comes to optimizing and analyzing high-dimensional datasets.
 
-In general, I'm fascinated by any problem defined on a large set of points or tuples in a _d-dimensional_ space!
+<!-- In general, I'm fascinated by any problem defined on a large set of points or tuples in a _d-dimensional_ space! -->
 
 
 <!-- ## Research Interests
@@ -40,8 +40,8 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   Preprint. **2025**. *To be submitted to ICML 2025*.
   <br>
   [[PDF](https://arxiv.org/abs/2411.06360)] [[Code](https://github.com/UIC-InDeXLab/RSR)] 
-  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
-  <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span>
+  <!-- <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span> -->
+  <!-- <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span> -->
 
 - **Mining the Minoria: Unknown, Under-represented, and Under-performing Minority Groups**.
   <br>
@@ -50,8 +50,8 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   International Conference on Very Large Databases. **VLDB 2025**. *Accepted*.
   <br>
   [[PDF](https://arxiv.org/abs/2411.04761)] [[Code](https://github.com/UIC-InDeXLab/Mining_U3Ms)]
-  <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span>
-  <span style="background-color: #FFDAC1; color: black; padding: 2px 6px; border-radius: 4px;">Computational Geometry</span>
+  <!-- <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span> -->
+  <!-- <span style="background-color: #FFDAC1; color: black; padding: 2px 6px; border-radius: 4px;">Computational Geometry</span> -->
 
 
 - **Fair Set Cover**
@@ -61,7 +61,7 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2025**. *Accepted*.
   <br>
   [[PDF](https://arxiv.org/abs/2405.11639)] [[Code](https://github.com/UIC-InDeXLab/fair_set_cover)] 
-  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
+  <!-- <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span> -->
 
 - **Rank It, Then Ask It: Input Reranking for Maximizing the Performance of LLMs on Symmetric Tasks**
   <br>
@@ -70,8 +70,8 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   Preprint. **2025**. 
   <br>
   [[PDF](https://arxiv.org/abs/2412.00546)] [[Code](https://github.com/UIC-InDeXLab/prompt-reranking)]
-  <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span>
-  <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span>
+  <!-- <span style="background-color: #BEE3DB; color: black; padding: 2px 6px; border-radius: 4px;">LLMs</span> -->
+  <!-- <span style="background-color: #FAD02E; color: black; padding: 2px 6px; border-radius: 4px;">Algorithm</span> -->
 
 - **Needle: A Generative-AI Powered Monte Carlo Method for Answering Complex Natural Language Queries on Multi-modal Data**
   <br>
@@ -80,8 +80,8 @@ In general, I'm fascinated by any problem defined on a large set of points or tu
   Preprint. **2025**. 
   <br>
   [[PDF](https://arxiv.org/abs/2412.00639)] [[Code](https://github.com/UIC-InDeXLab/Needle)]
-  <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span>
-  <span style="background-color: #ADD8E6; color: black; padding: 2px 6px; border-radius: 4px;">Multi-modal Datasets</span>
+  <!-- <span style="background-color: #FFB3BA; color: black; padding: 2px 6px; border-radius: 4px;">Data Science</span> -->
+  <!-- <span style="background-color: #ADD8E6; color: black; padding: 2px 6px; border-radius: 4px;">Multi-modal Datasets</span> -->
   
 
 <!--
