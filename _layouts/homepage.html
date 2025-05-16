@@ -60,7 +60,9 @@
           {% if site.avatar %}
           <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
           {% endif %}
-          <h1 class="header-title"><strong><header-title>{{ site.title }}</header-title></strong><br></h1>
+          <h1 class="header-title"><strong><header-title>{{ site.title }}</header-title>
+            <a href="{{ site.pronounce_link }}" target="_blank" title="Pronounce my name" style="font-size: 0.6em; margin-left: 0.3em;">🔊</a>
+          </strong><br></h1>
           <header-info>
           {% if site.position %}
           {{ site.position }}<br>
@@ -73,7 +75,7 @@
           {{ site.email }}
           <br>
           {% endif %}
-          <a href="https://www.howtopronounce.com/mohsen" target="_blank">My Name 🔊</a>
+          <!-- <a href="https://www.howtopronounce.com/mohsen" target="_blank">My Name 🔊</a> -->
           </header-info>
         </div>
       </header>
@@ -104,8 +106,11 @@
             {% if site.google_scholar %}
             <li><a href="{{ site.google_scholar }}" class="ai ai-google-scholar ai-2x" style="border:none;vertical-align: -4px"></a></li>
             {% endif %}
-            {% if site.cv_link %}
-            <li><a href="{{ site.cv_link }}" class="ai ai-cv ai-2x" style="border:none;vertical-align: -4px"></a></li>
+            <!-- {% if site.cv_link %} -->
+            <!-- <li><a href="{{ site.cv_link }}" class="ai ai-cv ai-2x" style="border:none;vertical-align: -4px"></a></li> -->
+            <!-- {% endif %} -->
+            {% if site.twitter %}
+            <li><a href="{{ site.twitter }}" class="icon brands fa-twitter"></a></li>
             {% endif %}
           </ul>
 
