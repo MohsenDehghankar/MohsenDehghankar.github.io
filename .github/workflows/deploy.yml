@@ -3,7 +3,7 @@ name: Deploy Hugo site from subdirectory
 on:
   push:
     branches:
-      - hugo-site  # Or your default branch
+      - main  # Or your default branch
 
 jobs:
   deploy:
