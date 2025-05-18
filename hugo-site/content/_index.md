@@ -9,7 +9,7 @@ advised by [Dr. Abolfazl Asudeh](https://asudeh.github.io/). I completed my B.Sc
 
 My research primarily focuses on **algorithm design** and **data science** with an emphasize on developing algorithms to optimize various stages of machine learning and data science pipelines. I am also exploring algorithmic approaches to improve the efficiency of **large language models (LLMs)**. 
 
-In addition, I have a strong interest in **geometric algorithms** and computational geometry, particularly in their applications to data science and database problems. 
+In addition, I have a strong interest in **geometric algorithms** and computational geometry, particularly in their applications to data science and database problem. 
 
 ---
 
