@@ -1,0 +1,3 @@
+[submodule "hugo-site/themes/devise"]
+	path = hugo-site/themes/devise
+	url = https://github.com/austingebauer/devise.git

@@ -1,0 +1,57 @@
+baseURL = "https://mohsendehghankar.github.io"
+languageCode = "en-us"
+title = "Mohsen Dehghankar"
+theme = "devise"
+
+relativeURLs = true
+enableEmoji = true
+googleAnalytics = "G-XMJC1H955D"
+enableRobotsTXT = true
+copyright = "&copy; Copyright 2025, Mohsen Dehghankar"
+
+# Main menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    title = "Posts"
+    url = "/posts/"
+    weight = -100
+  # [[menu.main]]
+  #   identifier = "categories"
+  #   name = "Categories"
+  #   title = "Categories"
+  #   url = "/categories/"
+  #   weight = -90
+
+# Configuration Features
+[params]
+  description = "Mohsen Dehghankar"      # Your meta description of the site
+  header_title = "Mohsen Dehghankar"                 # Your header title
+  header_subtitle = "Computer Science PhD Student | Chicago, IL" # Your header subtitle
+  home_image = "/images/profile.jpg"            # Path to header image starting from the static directory (optional)
+  recent_posts = 5                           # Max amount of recent posts to show
+  mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
+  [params.style]                             # CSS style overrides
+    backgroundColor = "#f8f9fa"
+    homeImageBorderColor = "#ffffff"
+    fontFamilyBase = "Helvetica Neue"        # First-choice font
+    fontColor = "#212529"
+  [[params.social]]
+    fa_icon = "ai ai-google-scholar ai-1x"
+    href = "https://scholar.google.com/citations?user=YZQnitsAAAAJ&hl=en"
+  [[params.social]]
+    fa_icon = "fab fa-github fa-1x"          # Font Awesome icon class
+    href = "http://github.com/MohsenDehghankar"      # Link to associate with icon (http://, https://, mailto:)
+  [[params.social]]
+    fa_icon = "fab fa-linkedin-in fa-1x"
+    href = "https://www.linkedin.com/in/mohsen-dehghankar-b92788158/"
+  [[params.social]]
+    fa_icon = "fab fa-twitter fa-1x"
+    href = "https://x.com/Mohsen005942362"
