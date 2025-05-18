@@ -5,7 +5,7 @@ theme = "devise"
 
 relativeURLs = true
 enableEmoji = true
-googleAnalytics = "UA-111540567-4"
+googleAnalytics = "G-XMJC1H955D"
 enableRobotsTXT = true
 copyright = "&copy; Copyright 2025, Mohsen Dehghankar"
 
