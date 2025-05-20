@@ -1,6 +1,6 @@
 +++
 date = '2025-05-18T13:37:35-05:00'
-draft = false
+draft = true
 title = 'My First Post'
 summary = "This is a short summary of the post, shown in the list view."
 tags = ["hugo", "example"]
