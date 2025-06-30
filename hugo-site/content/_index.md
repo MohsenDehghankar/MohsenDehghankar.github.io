@@ -14,6 +14,11 @@ In addition, I have a strong interest in geometric algorithms and **computationa
 ---
 
 #### Publications
+* **An Adversary-Resistant Multi-Agent LLM System via Credibility Scoring**  
+  Sana Ebrahimi, _Mohsen Dehghankar_, Abolfazl Asudeh  
+  *Preprint (2025)*  
+  [[PDF](https://arxiv.org/abs/2505.24239)]
+
 * **HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**  
   _Mohsen Dehghankar_, Abolfazl Asudeh  
   *Preprint (2025)*  
