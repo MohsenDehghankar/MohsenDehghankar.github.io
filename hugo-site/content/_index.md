@@ -13,21 +13,21 @@ In addition, I have a strong interest in geometric algorithms and **computationa
 
 ---
 
-#### Publications
-* **An Adversary-Resistant Multi-Agent LLM System via Credibility Scoring**  
-  Sana Ebrahimi, _Mohsen Dehghankar_, Abolfazl Asudeh  
-  *Preprint (2025)*  
-  [[PDF](https://arxiv.org/abs/2505.24239)]
+#### Selected Papers
+* **An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks**  
+  _Mohsen Dehghankar_, Mahdi Erfanian, Abolfazl Asudeh  
+  *ICML 2025*  
+  [[PDF](https://arxiv.org/abs/2411.06360)] | [[Code](https://github.com/UIC-InDeXLab/RSR)] | [[Project Page](https://icml.cc/virtual/2025/poster/45473)]
 
 * **HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**  
   _Mohsen Dehghankar_, Abolfazl Asudeh  
   *Preprint (2025)*  
   [[PDF](https://arxiv.org/abs/2505.17368)] | [[Code](https://github.com/UIC-InDeXLab/HENN)]
 
-* **An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks**  
-  _Mohsen Dehghankar_, Mahdi Erfanian, Abolfazl Asudeh  
-  *ICML 2025*  
-  [[PDF](https://arxiv.org/abs/2411.06360)] | [[Code](https://github.com/UIC-InDeXLab/RSR)]
+* **An Adversary-Resistant Multi-Agent LLM System via Credibility Scoring**  
+  Sana Ebrahimi, _Mohsen Dehghankar_, Abolfazl Asudeh  
+  *Preprint (2025)*  
+  [[PDF](https://arxiv.org/abs/2505.24239)]
 
 * **Rank It, Then Ask It: Input Reranking for Maximizing the Performance of LLMs on Symmetric Tasks**  
  _Mohsen Dehghankar_, Abolfazl Asudeh  
