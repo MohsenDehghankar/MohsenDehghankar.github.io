@@ -7,9 +7,17 @@ title: "Home"
 I am a Ph.D. student in Computer Science at the University of Illinois Chicago, 
 advised by [Dr. Abolfazl Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering, with a minor in Mathematics, at Sharif University of Technology.
 
-My research primarily focuses on **algorithm design** and **data science** with an emphasize on developing algorithms to optimize various stages of machine learning and data science pipelines. I am also exploring algorithmic approaches to improve the efficiency of **LLMs**. 
+My research focuses on **algorithm design** for improving different stages of the machine learning and data pipeline. I also work on developing algorithmic methods for **efficient LLM inference**. Broadly, my research spans three directions:
+
+* *Inference Efficiency:* Designing algorithms that accelerate the inference in large models (e.g., LLMs).
+
+* *Retrieval Problems:* Problems such as Approximate Nearest Neighbor (ANN) search and exploring how retrieval can be used to enhance inference.
+
+* *Algorithmic Fairness:* Algorithms for fairness-aware data management.
 
 In addition, I have a strong interest in geometric algorithms and **computational geometry**, particularly in their applications to data science and database problems. 
+
+*Thesis (Proposal) Title:* **"From Data to Models: Efficient Algorithms for Retrieval and Inference"**
 
 ---
 
@@ -26,7 +34,7 @@ In addition, I have a strong interest in geometric algorithms and **computationa
 
 * **An Adversary-Resistant Multi-Agent LLM System via Credibility Scoring**  
   Sana Ebrahimi, _Mohsen Dehghankar_, Abolfazl Asudeh  
-  *Preprint (2025)*  
+  *AACL 2025*  
   [[PDF](https://arxiv.org/abs/2505.24239)]
 
 * **Rank It, Then Ask It: Input Reranking for Maximizing the Performance of LLMs on Symmetric Tasks**  
