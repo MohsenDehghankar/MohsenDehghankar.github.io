@@ -7,15 +7,15 @@ title: "Home"
 I am a Ph.D. student in Computer Science at the University of Illinois Chicago, 
 advised by [Dr. Abolfazl Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering, with a minor in Mathematics, at Sharif University of Technology.
 
-My research focuses on **algorithm design** for improving different stages of the machine learning and data pipeline. I also work on developing algorithmic methods for **efficient LLM inference**. Broadly, my research spans three directions:
+My research focuses on **algorithm design** for improving different stages of the machine learning and data pipeline. Broadly, my research spans three directions:
 
-* *Inference Efficiency:* Designing algorithms that accelerate the inference in large models (e.g., LLMs).
+* **LLM Inference Efficiency:** Designing algorithms that accelerate the inference in LLMs.
 
-* *Retrieval Problems:* Problems such as Approximate Nearest Neighbor (ANN) search and exploring how retrieval can be used to enhance inference.
+* **Retrieval Problems:** Problems such as Approximate Nearest Neighbor (ANN) search and ranked retrieval. Exploring how retrieval can be used to enhance inference.
 
-* *Algorithmic Fairness:* Algorithms for fairness-aware data management.
+* **Algorithmic Fairness:** Algorithms for fairness-aware data management.
 
-In addition, I have a strong interest in geometric algorithms and **computational geometry**, particularly in their applications to data science and database problems. 
+In addition, I have an interest in **computational geometry** algorithms, particularly in their applications to data science and database problems. 
 
 *Thesis (Proposal) Title:* **"From Data to Models: Efficient Algorithms for Retrieval and Inference"**
 
