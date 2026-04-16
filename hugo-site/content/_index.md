@@ -22,12 +22,17 @@ In addition, I have an interest in **computational geometry** algorithms, partic
 ---
 
 #### Selected Papers
+* **RSR-core: A High-Performance Engine for Low-Bit Matrix-Vector Multiplication**  
+ _Mohsen Dehghankar_, Abolfazl Asudeh  
+ *Preprint 2026*  
+ [[PDF](https://arxiv.org/abs/2603.27462)] | [[Code](https://github.com/UIC-InDeXLab/RSR-core)]  
+
 * **An Efficient Matrix Multiplication Algorithm for Accelerating Inference in Binary and Ternary Neural Networks**  
   _Mohsen Dehghankar_, Mahdi Erfanian, Abolfazl Asudeh  
   *ICML 2025*  
   [[PDF](https://arxiv.org/abs/2411.06360)] | [[Code](https://github.com/UIC-InDeXLab/RSR)] | [[Project Page](https://icml.cc/virtual/2025/poster/45473)]
 
-* **HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**  
+* **Hierarchical Epsilon-Net Graphs: Time Guarantees for HNSW in Approximate Nearest Neighbor Search**  
   _Mohsen Dehghankar_, Abolfazl Asudeh  
   *Preprint (2025)*  
   [[PDF](https://arxiv.org/abs/2505.17368)] | [[Code](https://github.com/UIC-InDeXLab/HENN)]
