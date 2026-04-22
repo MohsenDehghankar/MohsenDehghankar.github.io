@@ -1,29 +1,42 @@
 name: Deploy Hugo site from subdirectory
-
-on:
-  push:
-    branches:
-      - main  # Or your default branch
-
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.147.3'  # or latest stable version
-
-      - name: Build Hugo site from hugo-site/
-        run: hugo --source hugo-site --minify --environment production
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./hugo-site/public
-          publish_branch: gh-pages  # Or your desired branch
+  on:
+    push:
+      branches:
+        - main
+  permissions:
+    contents: write
+  jobs:
+    deploy:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout repository
+          uses: actions/checkout@v4
+          with:
+            submodules: recursive
+        - name: Setup Hugo
+          uses: peaceiris/actions-hugo@v2
+          with:
+            hugo-version: '0.147.3'
+        - name: Build Hugo site from hugo-site/
+          run: hugo --source hugo-site --minify --environment production
+        - name: Setup Node
+          uses: actions/setup-node@v4
+          with:
+            node-version: 20
+            cache: npm
+            cache-dependency-path: preditor/package-lock.json
+        - name: Build preditor (Vite)
+          run: |
+            cd preditor
+            npm ci
+            npm run build
+        - name: Copy preditor into Hugo public (→ /preditor/)
+          run: |
+            mkdir -p hugo-site/public/preditor
+            rsync -a preditor/dist/ hugo-site/public/preditor/
+        - name: Deploy to GitHub Pages
+          uses: peaceiris/actions-gh-pages@v3
+          with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            publish_dir: ./hugo-site/public
+            publish_branch: gh-pages
