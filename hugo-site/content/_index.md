@@ -4,7 +4,7 @@ title: "Home"
 
 #### About
 
-I am a Ph.D. student in Computer Science at the **University of Illinois Chicago**, 
+I am a 4th-year Ph.D. candidate in Computer Science at the **University of Illinois Chicago**, 
 advised by [Prof. Abolfazl Asudeh](https://asudeh.github.io/). I completed my B.Sc. in Computer Engineering, with a minor in Mathematics, at **Sharif University of Technology**.
 
 My research focuses on **algorithm design** for improving different stages of the machine learning and data pipeline. Broadly, my research spans two directions:
