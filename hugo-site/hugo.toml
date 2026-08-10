@@ -21,7 +21,7 @@ copyright = "&copy; Copyright 2025, Mohsen Dehghankar"
     identifier = "news"
     name = "News"
     title = "News"
-    url = "/#news"
+    url = "/#recent-news"
     weight = -108
   [[menu.main]]
     identifier = "papers"

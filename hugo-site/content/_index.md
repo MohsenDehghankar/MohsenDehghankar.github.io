@@ -19,7 +19,7 @@ In addition, I have an interest in **computational geometry** algorithms, partic
 
 ---
 
-#### News
+#### Recent News
 {{< news >}}
 
 ---
