@@ -18,6 +18,24 @@ copyright = "&copy; Copyright 2025, Mohsen Dehghankar"
     url = "/"
     weight = -110
   [[menu.main]]
+    identifier = "news"
+    name = "News"
+    title = "News"
+    url = "/#news"
+    weight = -108
+  [[menu.main]]
+    identifier = "papers"
+    name = "Papers"
+    title = "Selected Papers"
+    url = "/#selected-papers"
+    weight = -106
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    title = "Contact"
+    url = "/#contact"
+    weight = -104
+  [[menu.main]]
     identifier = "posts"
     name = "Posts"
     title = "Posts"

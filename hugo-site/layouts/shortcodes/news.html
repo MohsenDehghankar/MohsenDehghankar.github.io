@@ -1,0 +1,20 @@
+{{- $groups := slice -}}
+{{- $seen := slice -}}
+{{- range site.Data.news -}}
+  {{- if not (in $seen .date) -}}
+    {{- $seen = $seen | append .date -}}
+    {{- $groups = $groups | append .date -}}
+  {{- end -}}
+{{- end -}}
+<div class="news">
+  {{- range $date := $groups }}
+  <div class="news-group">
+    <div class="news-date">{{ $date }}</div>
+    <ul class="news-items">
+      {{- range where site.Data.news "date" $date }}
+      <li>{{ with .icon }}<span class="news-icon">{{ . }}</span>{{ end }}{{ .text | markdownify }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+</div>

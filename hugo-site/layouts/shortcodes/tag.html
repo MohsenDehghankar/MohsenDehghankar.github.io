@@ -1,0 +1,6 @@
+{{- $kind := .Get 0 -}}
+{{- if eq $kind "retrieval" -}}
+<span class="tag tag-retrieval">Retrieval</span>
+{{- else if eq $kind "llm" -}}
+<span class="tag tag-llm">LLM Efficiency</span>
+{{- end -}}

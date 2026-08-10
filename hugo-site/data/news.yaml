@@ -1,0 +1,17 @@
+# Newest first. Items sharing a date are grouped under one date label.
+# icon: any emoji (📄 paper, 🎤 talk, 🏆 award, 💼 position)
+- date: "May 2026"
+  icon: "💼"
+  text: "Joined *Adobe Research* as a Research Scientist Intern."
+- date: "May 2026"
+  icon: "📄"
+  text: "[RSR-core](https://arxiv.org/abs/2603.27462) is accepted to *VLDB 2026* (Demo Track)!"
+- date: "May 2026"
+  icon: "📄"
+  text: "[Random-Access Ranked Retrieval](https://arxiv.org/abs/2508.01108) is accepted to *KDD 2026*!"
+- date: "May 2026"
+  icon: "🏆"
+  text: "Received the Graduate Student Award for Exceptional Research Promise, *UIC College of Engineering*."
+- date: "April 2026"
+  icon: "🎤"
+  text: "Gave a talk at the [*Midwest DataDay*](https://www.cs.purdue.edu/homes/chunwei/mwdb.html) seminar, University of Chicago, on [\"Hierarchical Epsilon-Net Graphs for ANN\"](https://arxiv.org/abs/2505.17368). [[Slides](https://drive.google.com/file/d/1JMjE7rNbr74Nma-A4KDcIqovwa3PUO_4/view?usp=sharing)]"
