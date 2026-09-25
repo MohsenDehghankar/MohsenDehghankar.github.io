@@ -1,5 +1,8 @@
 # Newest first. Items sharing a date are grouped under one date label.
 # icon: any emoji (📄 paper, 🎤 talk, 🏆 award, 💼 position)
+- date: "September 2026"
+  icon: "📄"
+  text: "[Sparse Attention as a Range Searching Problem](https://arxiv.org/abs/2605.06763) is accepted to *NeurIPS 2026*!"
 - date: "May 2026"
   icon: "💼"
   text: "Joined *Adobe Research* as a Research Scientist Intern, Summer 2026."

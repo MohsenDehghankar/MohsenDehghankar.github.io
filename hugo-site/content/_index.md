@@ -27,7 +27,7 @@ In addition, I have an interest in **computational geometry** algorithms, partic
 #### Selected Papers
 * **Sparse Attention as a Range Searching Problem: Towards an Inference-Efficient Index for KV Cache**  
  _Mohsen Dehghankar_, Abolfazl Asudeh  
- *Under Review (2026)* {{< tag "llm" >}}{{< tag "retrieval" >}}  
+ *NeurIPS 2026* {{< tag "llm" >}}{{< tag "retrieval" >}}  
  [[PDF](https://arxiv.org/abs/2605.06763)] | [[Code](https://github.com/UIC-InDeXLab/Louver)]  
 
 * **Random-Access Ranked Retrieval and Similarity Search**  
